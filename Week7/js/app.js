@@ -1,7 +1,7 @@
 
 
 //Setting up the scene, camera, and render
-let scene = new THREE.Scene();
+let scene = new THREE.S
 let camera = new THREE.PerspectiveCamera 
 (50,
 window.innerWidth / window.innerHeight,
